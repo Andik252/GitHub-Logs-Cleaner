@@ -20,7 +20,7 @@ Halaman. [GitHub token](https://github.com/settings/tokens)**
 
 3. **Masuk ke folder repositori dan install dependensi**:
    ```bash
-   cd Github-Actions-Cleaner && npm install axios
+   cd Github-Actions-Cleaner && npm init -y && npm install axios
    ```
 
 4. **Edit file `deleteTokens.js`**:
