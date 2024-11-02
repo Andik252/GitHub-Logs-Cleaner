@@ -1,7 +1,7 @@
 const axios = require('axios');
 
-const owner = 'USERNAME'; // Ganti dengan username GitHub Kamu
-const repo = 'REPO_NAME'; // Ganti dengan nama repositori yang ingin bersihkan 
+const owner = 'USERNAME'; // Ganti dengan username atau organisasi Anda
+const repo = 'REPO_NAME'; // Ganti dengan nama repositori Anda
 const token = 'YOUR_PERSONAL_ACCESS_TOKEN'; // Ganti dengan token akses pribadi Anda
 
 async function deleteWorkflowLogs() {
