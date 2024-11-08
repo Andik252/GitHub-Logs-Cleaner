@@ -20,12 +20,12 @@ Halaman. [GitHub token](https://github.com/settings/tokens)**
 
 3. **Masuk ke folder repositori dan install dependensi**:
    ```bash
-   cd Github-Actions-Cleaner && npm init -y && npm install axios
+   cd GitHub-Logs-Cleaner && npm init -y && npm install axios
    ```
 
-4. **Edit file `deleteTokens.js`**:
+4. **Edit file `Delete.js`**:
    ```bash
-   nano deleteTokens.js
+   nano Delete.js
    ```
    
    - Ganti nilai `owner` dengan username atau organisasi Anda.
@@ -45,7 +45,7 @@ Halaman. [GitHub token](https://github.com/settings/tokens)**
 
 5. **Jalankan program**:
    ```bash
-   node deleteTokens.js
+   node Delete.js
    ```
 
 ## Catatan Penting
