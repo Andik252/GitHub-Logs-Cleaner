@@ -15,7 +15,7 @@ Halaman. [GitHub token](https://github.com/settings/tokens)**
 
 2. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/Andik252/Github-Actions-Cleaner.git
+   git clone https://github.com/Andik252/GitHub-Logs-Cleaner.git
    ```
 
 3. **Masuk ke folder repositori dan install dependensi**:
