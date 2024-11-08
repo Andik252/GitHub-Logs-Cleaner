@@ -1,4 +1,4 @@
-# GitHub Actions Log Deleter
+# GitHub Logs Cleaner
 
 ## Deskripsi
 Skrip ini memungkinkan Anda untuk menghapus semua log dari GitHub Actions di repositori Anda dengan mudah menggunakan Node.js.
